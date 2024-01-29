@@ -1,0 +1,40 @@
+a{
+    text-decoration: none;
+    color: red;
+}
+
+header{
+    background: lightblue;
+}
+
+.para{
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 1px;
+    color: peru;
+}
+
+p{
+    text-decoration: underline;
+    color: royalblue;
+}
+
+#header{
+    background: lightblue;
+}
+
+.welcome{
+    background: green;
+}
+
+#header.welcome{
+background: darkorchid;
+}
+
+header#header.welcome{
+    background: green;
+}
+
+p{
+    text-decoration: underline;
+    color: royalblue;
+}
